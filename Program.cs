@@ -10,6 +10,9 @@ namespace stopWatch
     {
         static void Main(string[] args)
         {
+
+            stopWatch sw = new stopWatch();      
+
         }
     }
 }
